@@ -1,6 +1,6 @@
 # Diabetes Detection Using Various ML Algorithms
 
-This project handles diabetes prediction using a dataset of 100,000 individuals with features like age, gender, and medical history. Since only 8.5% of the cases are diabetic, the dataset is imbalanced, so getting the evaluation metrics right is crucial (can't fully rely on accuracy score).
+This project handles diabetes prediction using a dataset of 100,000 individuals with features like age, gender, and medical history. Since only 8.5% of the cases are diabetic, the dataset is imbalanced, so choosing right evaluation metrics is crucial (can't fully rely on accuracy score).
 ## Approach:
 
 ### Exploring the Data: 
